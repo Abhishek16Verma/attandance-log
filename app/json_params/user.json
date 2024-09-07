@@ -1,0 +1,36 @@
+{
+    "abhishekuser2": {
+        "roleid": 1,
+        "username": "abhishekuser2",
+        "password": "123456"
+    },
+    "abhishekuser1": {
+        "roleid": 1,
+        "username": "abhishekuser1",
+        "password": "123456"
+    },
+    "abhishekadmin": {
+        "roleid": 0,
+        "username": "abhishekadmin",
+        "password": "admin",
+        "secret_key": "654321"
+    },
+    "abhishekadmin-2": {
+        "roleid": 0,
+        "username": "abhishekadmin-2",
+        "password": "admin",
+        "secret_key": "654321"
+    },
+    "abhishekadmin-3": {
+        "roleid": 0,
+        "username": "abhishekadmin-3",
+        "password": "admin",
+        "secret_key": "654321"
+    },
+    "abhishekadmin-4": {
+        "roleid": 0,
+        "username": "abhishekadmin-4",
+        "password": "admin",
+        "secret_key": "654321"
+    }
+}

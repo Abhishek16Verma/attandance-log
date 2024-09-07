@@ -1,0 +1,4 @@
+[2024-06-20 14:44:49,723]:[attendance-snap]:[post:29]:[ERROR]:error in User not fill all the fields /home/abhishekverma/bak-abhishek/attendance-log/app/services/user.py
+NoneType: None
+[2024-06-20 14:45:18,863]:[attendance-snap]:[post:29]:[ERROR]:error in User not fill all the fields /home/abhishekverma/bak-abhishek/attendance-log/app/services/user.py
+NoneType: None
